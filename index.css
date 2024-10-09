@@ -2,3 +2,7 @@ body {
         color: deeppink;
     background-color: lightpink;
 }
+
+ul {
+     display:flex;
+     justify-content:space-between;
